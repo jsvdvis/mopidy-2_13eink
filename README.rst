@@ -16,6 +16,8 @@ Mopidy-2_13eink
 
 Mopidy extension for GUI on 2.13" E-ink display
 
+<<WIP>>
+
 
 Installation
 ============
